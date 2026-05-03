@@ -1,4 +1,4 @@
-# AI-Monitored Integrated Algae Biorefinery_Research Project 🌿💻
+# AI-Monitored Integrated Algae Biorefinery 🌿💻
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 ![Deployment](https://img.shields.io/badge/Deployed_on-Netlify-00C7B7?logo=netlify)
@@ -12,6 +12,9 @@ This repository contains the front-end codebase for the **AI-Monitored Integrate
 The website serves as a digital hub to showcase our ongoing research, technical architecture, and commercial viability, shifting the paradigm from treating algae as a single-fuel source to a multi-product resource.
 
 **Note:** *This is my first-ever website design and development project!* 🎉
+
+> ### ⚠️ Important Note on Folder Structure
+> This is a **single-page HTML project** (`index.html`). To ensure all media and downloads work correctly locally, **all assets (images, videos, and PDF files) MUST be placed directly in the exact same folder** as the `index.html` file. Do not use subfolders for media.
 
 ## ✨ Website Features
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing using CSS Flexbox and Grid.
